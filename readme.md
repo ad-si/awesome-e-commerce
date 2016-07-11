@@ -23,6 +23,7 @@
 - [Flatmarket] - Free, open source e-commerce platform for static websites.
 - [Gumroad] - All-in-one solution to sell work and grow an audience.
 - [Marketcloud] - Mobile first e-commerce backend.
+- [PrestaShop] - Free, fully scalable, Open Source e-commerce solution.
 - [Schema] - Platform and API for custom online stores.
 - [VHX] - Sell films, TV shows, web series, … across multiple platforms.
 
@@ -30,6 +31,7 @@
 [Flatmarket]: https://christophercliff.com/flatmarket
 [Gumroad]: https://gumroad.com
 [Marketcloud]: http://www.marketcloud.it
+[PrestaShop]: https://www.prestashop.com
 [Schema]: https://schema.io
 [VHX]: https://www.vhx.tv
 
