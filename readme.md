@@ -1,17 +1,32 @@
-# Awesome E-commerce
+# Awesome E-Commerce
 
 ## Payment Providers
 
-- [Braintree] - .
-- [Checkout] - .
-- [PaymentSpring] - .
-- [PayPal] - .
-- [Stripe] - .
+Name | Features | Conditions
+-----|----------|-----------
+[2Checkout] | Credit/Debit Cards, PayPal | 2.4% + 0.30€
+[Braintree] | Credit cards, PayPal, coinbase | 2.9% + 0.30€ from 50 000€
+[Dwolla] | ? | Free until 10 000€ / month
+[Checkout] | Credit cards, local payment solutions | 1.5% + 0.15€
+[Mangopay] | Credit cards, direct transfer | 1.8% + 0.18€
+[PaymentSpring] | Credit cards | 2.89% + 0.30€
+[PaymentWall] | Sell digital products, 140+ Payment providers (no PayPal) | 2.7% + 0.30€
+[Paymill] | Credit/Debit cards, PayPal | 2,95% + 0,28€
+[PayPal] | Fully integrated payment provider, invoice generation | 1.9% + 0.35€
+[Square Cash] | Request payments | 2.75%
+[Stripe] | Credit card payments | 2.9% + 0.30€
 
-[Braintree]: https://www.braintreepayments.com
-[Checkout]: https://www.checkout.com/
-[PaymentSpring]: https://www.paymentspring.com
+
+[2Checkout]: https://2checkout.com
+[Braintree]: https://braintreepayments.com
+[Dwolla]: https://dwolla.com
+[Checkout]: https://checkout.com
+[Mangopay]: https://mangopay.com
+[PaymentSpring]: https://paymentspring.com
+[PaymentWall]: https://paymentwall.com
+[Paymill]: https://paymill.com
 [PayPal]: https://paypal.com
+[Square Cash]: https://cash.me
 [Stripe]: https://stripe.com
 
 
