@@ -56,10 +56,12 @@ Name | Features | Conditions
 - [Commerce.js] - Full-stack e-commerce API for developers & designers
 - [Moltin] - E-commerce API infrastructure for any platform.
 - [Snipcart] - Add e-commerce functionalities to static or dynamic websites.
+- [LiveMart] - GraphQL based E-commerce API for any platform.
 
 [Commerce.js]: http://commercejs.com/
 [Moltin]: https://moltin.com
 [Snipcart]: https://snipcart.com
+[LiveMart]: https://livemart.xyz
 
 
 ## Tools
