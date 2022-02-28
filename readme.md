@@ -61,7 +61,7 @@ Name | Features | Conditions
 [Commerce.js]: http://commercejs.com/
 [Moltin]: https://moltin.com
 [Snipcart]: https://snipcart.com
-[LiveMart]: https://livemart.xyz
+[LiveMart]: https://livemart.store
 
 
 ## Tools
