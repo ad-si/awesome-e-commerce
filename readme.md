@@ -70,9 +70,11 @@ Name | Features | Conditions
 
 [JavaScript Buy SDK] - Lightweight library to build e-commerce into any website.
 [Minicart] - Improve PayPal shopping cart integration
+[ShopSavvy Data API] - Product pricing and availability data across 70,000+ retailers via REST API. Lookup by barcode, ASIN, URL, or model number. SDKs in 10 languages.
 
 [Minicart]: https://github.com/jeffharrell/minicart
 [JavaScript Buy SDK]: https://github.com/Shopify/js-buy-sdk
+[ShopSavvy Data API]: https://shopsavvy.com/data
 
 
 ## CMS
