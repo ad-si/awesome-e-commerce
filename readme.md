@@ -71,10 +71,12 @@ Name | Features | Conditions
 [JavaScript Buy SDK] - Lightweight library to build e-commerce into any website.
 [Minicart] - Improve PayPal shopping cart integration
 [ShopSavvy Data API] - Product pricing and availability data across 70K retailers via REST API.
+[Xianyu Netdisk Delivery Checker] - Free browser-side checklist for Xianyu digital-product sellers before sending netdisk links.
 
 [Minicart]: https://github.com/jeffharrell/minicart
 [JavaScript Buy SDK]: https://github.com/Shopify/js-buy-sdk
 [ShopSavvy Data API]: https://shopsavvy.com/data
+[Xianyu Netdisk Delivery Checker]: https://ronnie2025.github.io/xianyu-netdisk-delivery-checker/
 
 
 ## CMS
