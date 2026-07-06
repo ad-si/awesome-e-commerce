@@ -71,8 +71,10 @@ Name | Features | Conditions
 [JavaScript Buy SDK] - Lightweight library to build e-commerce into any website.
 [Minicart] - Improve PayPal shopping cart integration
 [ShopSavvy Data API] - Product pricing and availability data across 70K retailers via REST API.
+[Free E-commerce Ops Calculators] - Free, no-signup calculators: returns cost, payout reconciliation, reorder point, Stripe Connect fee splits, and an ops reliability scorecard.
 
 [Minicart]: https://github.com/jeffharrell/minicart
+[Free E-commerce Ops Calculators]: https://ops.scienceswarm.org/tools
 [JavaScript Buy SDK]: https://github.com/Shopify/js-buy-sdk
 [ShopSavvy Data API]: https://shopsavvy.com/data
 
