@@ -70,10 +70,12 @@ Name | Features | Conditions
 
 [JavaScript Buy SDK] - Lightweight library to build e-commerce into any website.
 [Minicart] - Improve PayPal shopping cart integration
+[PrestaShop Search Evaluation Kit] - MIT-licensed staging checklist with completed storefront-search examples and public scoring rules.
 [ShopSavvy Data API] - Product pricing and availability data across 70K retailers via REST API.
 
 [Minicart]: https://github.com/jeffharrell/minicart
 [JavaScript Buy SDK]: https://github.com/Shopify/js-buy-sdk
+[PrestaShop Search Evaluation Kit]: https://github.com/Ycyconsulting/prestashop-search-evaluation-kit
 [ShopSavvy Data API]: https://shopsavvy.com/data
 
 
