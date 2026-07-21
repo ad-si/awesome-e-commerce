@@ -70,10 +70,12 @@ Name | Features | Conditions
 
 [JavaScript Buy SDK] - Lightweight library to build e-commerce into any website.
 [Minicart] - Improve PayPal shopping cart integration
+[Profit Margin Calculator] - Free, no-signup calculator for markup, margin, and cost pricing on products.
 [ShopSavvy Data API] - Product pricing and availability data across 70K retailers via REST API.
 
 [Minicart]: https://github.com/jeffharrell/minicart
 [JavaScript Buy SDK]: https://github.com/Shopify/js-buy-sdk
+[Profit Margin Calculator]: https://nutilz.com/profit-margin-calculator
 [ShopSavvy Data API]: https://shopsavvy.com/data
 
 
